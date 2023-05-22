@@ -1,0 +1,231 @@
+.settings {
+    position: absolute;
+    width: 393px;
+    height: 845px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #F5F5F5;
+}
+
+.header {
+    position: absolute;
+    width: 390px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+    background: #F5F5F5;
+}
+
+.settings input {
+    width: 358px;
+    height: 65px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 0px;
+    box-sizing: border-box;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 110%;
+    color: #2B2B2B;
+}
+
+.settings span {
+    box-sizing: border-box;
+    padding-top: 12px;
+    padding-bottom: 34px;
+    padding-left: 20px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    color: #919191;
+}
+
+.account_settings {
+    position: absolute;
+    height: 31px;
+    left: 10.75%;
+    right: 27.72%;
+    top: 76px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.account_settings_vector {
+    position: absolute;
+    width: 9.91px;
+    height: 17.49px;
+    left: 16px;
+    top: 82.54px;
+}
+
+.email_span {
+    z-index: 100;
+    position: absolute;
+    width: 41.06px;
+    height: 19px;
+    left: 36px;
+    top: 143px;
+}
+
+.email {
+    position: absolute;
+    left: 16px;
+    top: 131px;
+}
+
+.account_email_vector {
+    position: absolute;
+    width: 9.91px;
+    height: 17.49px;
+    left: 340.03px;
+    top: 154.54px;
+}
+
+.password_span {
+    z-index: 100;
+    position: absolute;
+    width: 150.41px;
+    height: 19px;
+    left: 36px;
+    top: 216px;
+}
+
+.password {
+    position: absolute;
+    left: 16px;
+    top: 204px
+}
+
+.account_password_vector {
+    position: absolute;
+    width: 9.91px;
+    height: 17.49px;
+    left: 340.03px;
+    top: 227.54px;
+}
+
+.country_span {
+    z-index: 100;
+    position: absolute;
+    width: 142.14px;
+    height: 19px;
+    left: 36px;
+    top: 289px;
+}
+
+.country {
+    position: absolute;
+    left: 16px;
+    top: 277px;
+
+}
+
+.language_span {
+    z-index: 100;
+    position: absolute;
+    width: 80.49px;
+    height: 19px;
+    left: 36px;
+    top: 362px;
+}
+
+.language {
+    position: absolute;
+    left: 16px;
+    top: 350px;
+}
+
+.account_language_vector {
+    position: absolute;
+    width: 9.91px;
+    height: 17.49px;
+    left: 340.03px;
+    top: 373.54px;
+}
+
+.legal {
+    position: absolute;
+    height: 31px;
+    left: 4.1%;
+    right: 41.79%;
+    top: 443px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.privacy {
+    position: absolute;
+    width: 358px;
+    height: 65px;
+    left: 16px;
+    top: 502px;
+    background: #FFFFFF;
+}
+
+.term_of_service {
+    position: absolute;
+    width: 358px;
+    height: 65px;
+    left: 16px;
+    top: 567px;
+    background: #FFFFFF;
+}
+
+.logout {
+    position: absolute;
+    width: 358px;
+    height: 65px;
+    left: 16px;
+    top: 648px;
+    background: #FFFFFF;
+}
+
+.delete {
+    position: absolute;
+    width: 358px;
+    height: 65px;
+    left: 16px;
+    top: 713px;
+    background: #FFFFFF;
+}
+
+.settings div img {
+    position: absolute;
+    top: 21px;
+    left: 17px;
+}
+
+.settings div span {
+    position: absolute;
+    top: 10px;
+    left: 49px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 110%;
+    color: #2B2B2B;
+}

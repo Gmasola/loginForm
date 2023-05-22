@@ -1,0 +1,172 @@
+.app {
+  position: absolute;
+  width: 393px;
+  height: 845px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #F5F5F5;
+}
+
+.header {
+  position: absolute;
+  width: 390px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+
+.logo {
+  position: absolute;
+  width: 150px;
+  height: 62px;
+  left: calc(50% - 150px/2 + 0.5px);
+  top: 76px;
+}
+
+.app div input {
+  position: absolute;
+  width: 361px;
+  height: 54px;
+  left: calc(50% - 361px/2);
+  background: #FFFFFF;
+  border-radius: 10px;
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  border: 0;
+  box-sizing: border-box;
+  padding-top: 17px;
+  padding-bottom: 18px;
+  padding-left: 25px;
+
+}
+
+.name {
+  top: 21.6%;
+  bottom: 72.07%;
+}
+
+.surname {
+  top: 28.87%;
+  bottom: 64.79%;
+}
+
+.email {
+  top: 36.15%;
+  bottom: 57.51%;
+}
+
+.password {
+  top: 43.43%;
+  bottom: 50.23%;
+}
+
+.showPassowrd {
+  position: absolute;
+  left: 85.75%;
+  right: 9.54%;
+  top: 45.54%;
+  bottom: 52.29%;
+
+}
+
+.checkbox {
+  position: absolute;
+  box-sizing: border-box;
+  width: 25px;
+  height: 25px;
+  left: 16px;
+  top: 515px;
+  background: #FFFFFF;
+  border: 2px solid #C7C7C7;
+  border-radius: 5px;
+}
+
+.remenberMe {
+  position: absolute;
+  width: 70px;
+  left: calc(50% - 70px/2 - 112.5px);
+  top: 60.8%;
+  bottom: 36.97%;
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  color: #2B2B2B;
+}
+
+.lostPassword {
+  position: absolute;
+  width: 157px;
+  left: calc(50% - 157px/2 + 98px);
+  top: 60.8%;
+  bottom: 36.97%;
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  text-decoration-line: underline;
+  color: #00608A;
+}
+
+.login {
+  position: absolute;
+  width: 361px;
+  height: 54px;
+  left: 16px;
+  top: 569px;
+  background: #2AA9E1;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  border: 0px;
+}
+
+.haiAccount {
+  position: absolute;
+  width: 158px;
+  left: calc(50% - 158px/2 + 0.5px);
+  top: 84.15%;
+  bottom: 13.26%;
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #2B2B2B;
+}
+
+.register {
+  position: absolute;
+  width: 361px;
+  height: 54px;
+  left: 16px;
+  top: 763px;
+  background: #00608A;
+  border-radius: 10px;
+  position: absolute;
+  top: 91.31%;
+  bottom: 5.87%;
+  border: 0px;
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}
